@@ -21,7 +21,7 @@ function Home() {
                     </div>
 
                     <div className="flex justify-center ">
-                        <img src='https://cdn.betterttv.net/emote/658f28f95e7e78960777148d/3x.webp' alt="" className='w-2/3' />
+                        <img src='https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/195.png' alt="" className='w-2/3' />
 
                     </div>
                 </div>

@@ -1,0 +1,8 @@
+.fundoLogin {
+    background-image: url('https://cdn.betterttv.net/emote/658f28f95e7e78960777148d/3x.webp');
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
